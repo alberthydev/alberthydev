@@ -36,5 +36,8 @@ I am a enthusiastic dev student looking to solve real world problems. I have a p
   <h2>OS's I use</h2>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  
+  ![Snake animation](https://github.com/Hygor0206/Hygor0206/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+  
