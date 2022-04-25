@@ -27,7 +27,6 @@ I am a enthusiastic dev student looking to solve real world problems. I have a p
 <h2>Contact and Social Medias</h2>
 <br>
 <div> 
-  <a href="https://www.instagram.com/hygor.albert25/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:hygor.marques@protonmail.com"><img src="https://img.shields.io/badge/-Proton-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hygor-marques-1747b21a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
   <a href="https://www.reddit.com/user/Hygor0206"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
