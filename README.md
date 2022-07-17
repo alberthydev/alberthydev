@@ -1,4 +1,4 @@
-### 💻 Hello user, my name is Hygor Marques, but you can call me Albert 💻
+### 💻 Hello user, my name is Hygor Marques, but also you may call me Albert 💻
 
 I am a enthusiastic dev student looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 
