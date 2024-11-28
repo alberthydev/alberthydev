@@ -163,13 +163,3 @@
 # 💻 Work With
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-# 📈 Stats
-<img
-  src="https://github-readme-stats-tau-eight-51.vercel.app/api?username=Hygor0206&show_icons=true&theme=react&&hide_border=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Hygor0206&&theme=react&&hide_border=true"
-/>
-<br/>
-![](https://komarev.com/ghpvc/?username=Hygor0206)
