@@ -2,7 +2,7 @@
 
 <div align="justify">
     A chill developer who loves building personal projects for not-so-real-world problems!<br>
-    If you liked my repos, send me an email — let's chat and build a great friendship!
+    If you liked my repos, send me an email, let's chat and build a great friendship!
 </div>
 
 <br/><a href="https://www.linkedin.com/in/hygor-marques-1747b21a3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
